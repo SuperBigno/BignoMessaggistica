@@ -1,6 +1,6 @@
 # BignoMessaggistica_live
 
-**BignoMessaggistica_live** è un'applicazione desktop sviluppata in **C# con WPF** per la gestione di messaggi e conversazioni. Il progetto è strutturato per fornire un'interfaccia grafica intuitiva per utenti che desiderano inviare, ricevere e organizzare comunicazioni.
+**BignoMessaggistica_live** è un'applicazione desktop sviluppata in **C# con WPF** per la gestione di messaggi e conversazioni. Il progetto è strutturato per fornire un'interfaccia grafica intuitiva per utenti che desiderano inviare, ricevere e organizzare comunicazioni oltre a consentire lo scambio di file e immagini.
 
 ## 🚀 Funzionalità principali
 

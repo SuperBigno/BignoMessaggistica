@@ -18,7 +18,7 @@
 ## ▶️ Come eseguire il progetto
 
 1. Clona o scarica il repository.
-2. Apri il file della soluzione:  
+2. Apri il file della soluzione.  
 3. Compila ed esegui il progetto tramite Visual Studio.
 
 ## 📁 Struttura del progetto
@@ -28,3 +28,20 @@
 - `AddChatDialog.xaml`: Finestra per creare nuove chat.
 - `MainWindow.xaml`: Finestra principale dell'applicazione.
 - `App.xaml`: Entry point dell'app WPF.
+
+## 📸 Screenshot
+
+### 🔐 Schermata di Accesso
+![Accesso](images/accesso.png)
+
+### 📊 Dashboard principale
+![Dashboard](images/dashboard.png)
+
+### 💬 Esempio di messaggio
+![Messaggio](images/messaggio.png)
+
+### ➕ Finestra di aggiunta nuova chat
+![Add Chat](images/addchat.png)
+
+### 📎 Invio di un file allegato
+![Allegato](images/allegato.png)
